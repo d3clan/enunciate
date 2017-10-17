@@ -4,3 +4,4 @@
 *.ipr
 target
 cargo-installs
+.idea/
